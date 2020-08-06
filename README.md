@@ -25,7 +25,7 @@ Acá encontrarán el resto de mis proyectos de la carrera de __Desarrollo Web Fu
 * __Proyecto 5:__ [Ciudad Zombie](https://github.com/woodlandspirit/Ciudad_Zombie)
 * __Proyecto 6:__ [Reservando](https://github.com/woodlandspirit/Reservando)
 * __Proyecto 7:__ Encuestados
-* __Proyecto 8:__ Qué veo hoy
-* __Proyecto 9:__ Peli vs. peli
+* __Proyecto 8:__ [Qué veo hoy](https://github.com/woodlandspirit/Que_veo_hoy)
+* __Proyecto 9:__ [Peli vs. peli](https://github.com/woodlandspirit/Peli-VS-Peli)
 
 ***
